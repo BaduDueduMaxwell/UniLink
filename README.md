@@ -1,7 +1,3 @@
-Here's a comprehensive README for your "UniLink" web application project. This README includes sections detailing the project's purpose, setup instructions, technologies used, and other essential information to help developers and users understand and contribute to your project.
-
----
-
 ## UniLink
 
 UniLink is a web application designed to simplify the university application process for students in Ghana. It offers a centralized online platform where students can search for universities and apply to multiple schools directly from the application, saving time and effort.
