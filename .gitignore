@@ -1,0 +1,43 @@
+# Python-specific
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Database files
+*.db
+*.sqlite
+
+# Flask specific
+instance/
+*.sqlite3
+
+
+# PyCharm or other IDEs
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Flask secret keys or configuration files
+config.py  # If it contains sensitive information
+
+templates
