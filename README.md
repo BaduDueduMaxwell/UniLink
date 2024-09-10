@@ -1,4 +1,4 @@
-## UniLink
+## UniLink(Backend)
 
 UniLink is a web application designed to simplify the university application process for students in Ghana. It offers a centralized online platform where students can search for universities and apply to multiple schools directly from the application, saving time and effort.
 
